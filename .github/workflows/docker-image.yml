@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: r0855485/myfirstweb:latest
+          tags: r0855485/backend:latest
